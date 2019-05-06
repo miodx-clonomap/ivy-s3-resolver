@@ -1,7 +1,7 @@
 // enablePlugins(JavaOnlySettings)
 
 name := "ivy-s3-resolver"
-organization := "com.miodx.common"
+organization := "com.miodx.sbt.plugins"
 version      := "0.9.0"
 scalaVersion := "2.10.7"
 
