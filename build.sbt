@@ -3,6 +3,7 @@
 name := "ivy-s3-resolver"
 organization := "com.miodx.common"
 version      := "0.9.0"
+scalaVersion := "2.10.7"
 
 // bucketSuffix := "era7.com"
 
