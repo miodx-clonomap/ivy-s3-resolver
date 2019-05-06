@@ -1,10 +1,10 @@
 // enablePlugins(JavaOnlySettings)
 
 name := "ivy-s3-resolver"
-organization := "com.miodx.common"
+organization := "com.miodx.sbt.plugins"
 version      := "0.13.0"
 
-scalaVersion := "2.12.7"
+scalaVersion := "2.12.8"
 // bucketSuffix := "era7.com"
 
 //javaVersion := "1.8"
