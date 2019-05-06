@@ -1,11 +1,12 @@
-enablePlugins(JavaOnlySettings)
+// enablePlugins(JavaOnlySettings)
 
 name := "ivy-s3-resolver"
-organization := "ohnosequences"
+organization := "com.miodx.common"
+version      := "0.9.0"
 
-bucketSuffix := "era7.com"
+// bucketSuffix := "era7.com"
 
-javaVersion := "1.7"
+// javaVersion := "1.7"
 
 libraryDependencies ++= Seq(
   "com.amazonaws" % "aws-java-sdk-s3" % "1.11.27",
